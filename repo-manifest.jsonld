@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/iver56/audiomentations/commit/f5e45049dfa8b33e8ee79a900b2b796a9dcae45f",
       "git:hexsha": "f5e45049dfa8b33e8ee79a900b2b796a9dcae45f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/iver56/audiomentations/commit/e54910df58162c6a68cba83a1d7e9fd95bf10d21",
